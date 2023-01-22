@@ -122,8 +122,8 @@
         "kiid": "https://www.actiam.com/4a5659/siteassets/6_fondsen/actiam-retail/ebi/ebi_actiam_duurzaam_index_aandelenfonds_wereld.pdf",
         "factsheet": "https://www.actiam.com/4a52de/siteassets/6_fondsen/actiam-retail/factsheet-nl/fs_adia_wereld.pdf",
         "index": "MSCI World Index",
-        "esgExclusions": 19.1,
-        "_source": "https://www.actiam.com/497fbc/siteassets/6_fondsen/actiam-retail/jaarverslagen/jaarverslag-2020-actiam-beleggingsfondsen-nv.pdf#page=52"
+        "esgExclusions": 18.3,
+        "_source": "https://www.actiam.com/4a575c/siteassets/6_fondsen/actiam-institutioneel/jaarverslagen/2022-actiam-beleggingsfondsen-i-halfjaarbericht.pdf#page=31"
     },
     {
         "name": "ACTIAM Duurzaam Index Aandelenfonds Opkomende Landen",
@@ -137,8 +137,8 @@
         "kiid": "https://www.actiam.com/49b032/siteassets/6_fondsen/actiam-retail/ebi/ebi-actiam-duurzaam-index-aandelenfonds-opkomende-landen.pdf",
         "factsheet": "https://www.actiam.com/4a52de/siteassets/6_fondsen/actiam-retail/factsheet-nl/fs_adia_opkomende_landen.pdf",
         "index": "MSCI Emerging Markets Index",
-        "esgExclusions": 25.3,
-        "_source": "https://www.actiam.com/497fbc/siteassets/6_fondsen/actiam-retail/jaarverslagen/jaarverslag-2020-actiam-beleggingsfondsen-nv.pdf#page=52"
+        "esgExclusions": 27.2,
+        "_source": "https://www.actiam.com/4a566f/siteassets/6_fondsen/actiam-institutioneel/jaarverslagen/2022-actiam-duurzaam-index-aandelenfonds-opkomende-landen-halfjaarbericht.pdf#page=26"
     },
     {
         "name": "BND Wereld Indexfonds C-Hedged",
